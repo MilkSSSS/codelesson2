@@ -1,0 +1,5 @@
+E:\Мила\3.Изучение языков программирования\CodeLesson2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Мила\3.Изучение языков программирования\CodeLesson2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\Мила\3.Изучение языков программирования\CodeLesson2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\Мила\3.Изучение языков программирования\CodeLesson2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
